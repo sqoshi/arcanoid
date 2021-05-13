@@ -13,7 +13,7 @@
 ----------------------------
 # Arcanoid
 <p align="center">
-  <img src="list05/Arcanoid/media/arca-icon.png" width="80"/>
+  <img src="Arcanoid/media/arca-icon.png" width="80"/>
 </p>
 
 

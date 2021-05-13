@@ -16,6 +16,7 @@
   <img src="Arcanoid/media/arca-icon.png" width="80"/>
 </p>
 
+`[NOTE] If video is not loading properly, it may be found in Arcanoid/media/`
 
 ## Introduction
 Simple implementation of very popular game [Arcanoid](https://en.wikipedia.org/wiki/Arkanoid). Two game modes `multiplayer` and `singleplayer` allow to play with friends and break your records. Video of both modes are avaible in [multiplayer](#video) [singleplayer](#video-1)
